@@ -1,0 +1,27 @@
+Keywords:
+-Index: Pecorino, Pastas Artesanales, Sorrentinos
+-Elaboracion: Pecorino, Pastas Artesanales, Sorrentinos, Coccion.
+-Variedades: Pecorino, Pastas Artesanales, Sorrentinos, Ternera, Clasico, Verdura, Calabaza, Gourmet.
+-Punto de Venta: Pecorino, Pastas Artesanales, Sorrentinos, Punto de venta, Tafi, Mollar, San Miguel de Tucuman.
+-Promociones: Pecorino, Pastas Artesanales, Sorrentinos, Precios, Promociones, Receta.
+-Contacto: Pecorino, Pastas Artesanales, Sorrentinos, Contacto, Consulta, Pedido, Punto de Venta, Correo, CV.
+
+
+Descripcion:
+-Index: Pecorino Pastas Artesanales dedicada a la venta de Sorrentinos de diferentes variedades en varios Puntos de venta en Tucuman utilizando diferentes medios de pagos, cuenta con servicio take away y delivery.
+-Elaboracion: Pecorino Pastas Artesanales elabora variedades de sorrentinos faciles de cocinar y disfrutar.
+-Variedades: Pecorino Pastas Artesanales tiene 6 variedades de sorrentinos: Ternera, Clasico sin nueces, Clasico con nueces , Verdura, Calabaza y Gourmet. Consulta y pedi a traves de Facebook, Instagran, Whatapps.
+-Punto de Venta: Pecorino Pastas Artesanales en distintos Puntos de venta en Tucuman utilizando diferentes medios de consulta. Take away o Delivery. Acepta diferentes medios de pagos.
+-Promociones: Pecorino Pastas Artesanales precio por unidad y promos Siempre Lista, Equipa tu Heladera y Disfruta con Amigos y Familia.
+-Contacto: Pecorino Pastas Artesanales, Completá tus datos y dejá tu consulta, nos comunicaremos a la brevedad.
+
+Títulos:
+Pecorino-Pastas Artesanales|Inicio
+Pecorino-Pastas Artesanales|Elaboracion
+Pecorino-Pastas Artesanales|Variedades
+Pecorino-Pastas Artesanales|Punto de Venta
+Pecorino-Pastas Artesanales|Promociones
+Pecorino-Pastas Artesanales|Contacto
+
+Imágenes:
+-Para las imágenes usé los links creados en la nube de la página Cloudinary.
