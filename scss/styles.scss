@@ -2,6 +2,7 @@
 @import "mixin";
 @import "colores";
 @import "scroll";
+@import "barrasocial";
 
 
 
@@ -18,64 +19,9 @@ h2 {
     align-items: center;
     justify-content: center;
 }
-p{font-family: Verdana, Geneva, Tahoma, sans-serif;
+p {font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;} 
     
-/*-------------Animacion Palabras-------------*/
-h6{
-    animation-duration: 2s;
-    animation-name: aparecer;
-    animation-iteration-count: infinite;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: italic;
-}
-@keyframes aparecer{
-    0% {opacity: 0;}
-    100%{opacity: 1;}
-}
-    
-/*-------------Barra Social-------------*/
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box; }
-  
-  .social {
-    position: fixed;
-    left: 0;
-    top: 250px;
-    z-index: 2000; }
-    .social ul {
-      list-style: none; }
-      .social ul li a {
-        display: inline-block;
-        color: #fff;
-        background: #000;
-        padding: 10px 15px;
-        text-decoration: none;
-        -webkit-transition: all 500ms ease;
-        -o-transition: all 500ms ease;
-        transition: all 500ms ease; }
-  
-  .social ul li .facebook {
-    background: #3b5998; }
-  
-  .social ul li .instagram {
-    background: #95139e; }
-  
-  .social ul li .whatsapp {
-    background: #40f060; }
-  
-  .social ul li .rss {
-    background: #ba2e4c; }
-  
-  .social ul li a:hover {
-    padding: 10px  30px;
-    background: #000; }
-  
-  
 /*---------------------Pagina Elaboracion--------------------*/
 * {
    @include body;
@@ -187,3 +133,18 @@ h6{
         grid-template-columns: repeat(1, 1fr);
     }
 }
+/*-------------Animacion Palabras-------------*/
+h6 {
+    animation-duration: 2s;
+    animation-name: aparecer;
+    animation-iteration-count: infinite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic; }
+  
+  @keyframes aparecer {
+    0% {
+      opacity: 0; }
+    100% {
+      opacity: 1; } }
+  
+  
